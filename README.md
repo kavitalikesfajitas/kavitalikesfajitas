@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Kavita. I work at the intersection of frontend and platform, building applications and shaping the systems behind them. My work often involves React and Next.js, GraphQL APIs, caching layers, and cloud infrastructure. I am currently at Nike.
+My name is Kavita. I work at the intersection of frontend and platform, building applications and shaping the systems behind them. My work often involves React and Next.js, GraphQL APIs, caching layers, and cloud infrastructure. I am currently at Veho
 
 Outside of work, I build creative web experiments at **Living Kavita Loca** and spend as much time as possible snowboarding, hiking with my dog Samosa 🐕, and exploring mountain towns.
 
